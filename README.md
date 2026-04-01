@@ -1,6 +1,6 @@
 # Impulse Purchase Prediction in E-commerce
 > End-to-end machine learning project built in R — binary classification on 250,000 e-commerce transactions
-
+**[View Interactive Dashboard](https://mahi-sharmas.github.io/impulse-purchase-predictor/dashboard/dashboard.html)**
 ---
 
 ## Results
